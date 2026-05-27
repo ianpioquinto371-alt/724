@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "kurtiandd-d1SS.aternos.me:",
-    "port": 36886,
+    "ip": "botserver.aternos.me",
+    "port": 14995,
     "version": "1.20.1",
     "try-creative": false
   },
